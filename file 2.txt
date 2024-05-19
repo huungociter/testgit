@@ -1,1 +1,3 @@
-dev 2 code dưới này nè
+
+sửa trên git rồi
+
